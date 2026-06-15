@@ -65,13 +65,4 @@ PII Guard is an AI-powered privacy protection framework designed to prevent acci
 * Metadata-aware reasoning
 * Expanded international document support
 
-## Authors
 
-* N Sai Lokesh
-* D Sathish
-* Srilakshmi V
-* K Karthik
-
-## License
-
-This project is licensed under the MIT License.
